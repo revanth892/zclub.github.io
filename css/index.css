@@ -75,7 +75,7 @@ h1 {
 
 .split.left {
   left: 0;;
-  background: url('/images/space.jpg');
+  background: url('space.jpg');
   background-repeat: no-repeat;
   background-size: cover;
 }
@@ -91,7 +91,7 @@ h1 {
 .split.right {
   right: 0;
   background-color: beige;
-  background: url('/images/fantasy.jpg');
+  background: url('fantasy.jpg');
   background-repeat: no-repeat;
   background-size: cover;
 }
